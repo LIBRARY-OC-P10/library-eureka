@@ -11,7 +11,7 @@
 	<artifactId>library-eureka</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	<name>library-eureka</name>
-	<description>Library webapp for OpenClassrooms Project 7</description>
+	<description>Library webapp for OpenClassrooms Project 10</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -21,9 +21,9 @@
 	</properties>
 	
 	<scm>
-		<connection>scm:git:https://github.com/LIBRARY-OC-P7/library-eureka.git</connection>
-		<developerConnection>scm:git:https://github.com/LIBRARY-OC-P7/library-eureka.git</developerConnection>
-		<url>https://github.com/LIBRARY-OC-P7/library-eureka</url>
+		<connection>scm:git:https://github.com/LIBRARY-OC-P10/library-eureka.git</connection>
+		<developerConnection>scm:git:https://github.com/LIBRARY-OC-P10/library-eureka.git</developerConnection>
+		<url>https://github.com/LIBRARY-OC-P10/library-eureka</url>
 		<tag>@{project.version}</tag>
 	</scm>
 
